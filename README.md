@@ -12,6 +12,8 @@ Cursando Análise e Desenvolvimento de Sistemas na Fatec SJC (3° Semestre).<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gabe_Borges&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe_Borges&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://github.com/Gabe-Borges/Gabe-Borges/blob/output/github-contribution-grid-snake-dark.svg)
+
 [![](https://visitcount.itsvg.in/api?id=Gabe_Borges&icon=3&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
