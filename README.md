@@ -1,3 +1,5 @@
+# Olá, eu sou o Gabriel Borges de Toledo
+
 # 💫 Sobre mim:
 Cursando Análise e Desenvolvimento de Sistemas na Fatec SJC (3° Semestre).<br>Conhecimento em Python, Java, JavaScript, CSS, HTML, JavaFX.<br>Experiência em trabalho em equipe, formato Scrum, Metodologia Ágil.<br>
 
@@ -14,7 +16,6 @@ Cursando Análise e Desenvolvimento de Sistemas na Fatec SJC (3° Semestre).<br>
 
 ![snake gif](https://github.com/Gabe-Borges/Gabe-Borges/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Gabe_Borges&icon=3&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
