@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Borges de Toledo
 
-# 💫 Sobre mim:
+# Sobre mim:
 Cursando Análise e Desenvolvimento de Sistemas na Fatec SJC (3° Semestre).<br>Conhecimento em Python, Java, JavaScript, CSS, HTML, JavaFX.<br>Experiência em trabalho em equipe, formato Scrum, Metodologia Ágil.<br>
 
 ## 🌐 Contatos:
