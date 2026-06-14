@@ -2,7 +2,7 @@
 
 Software developer student based in São José dos Campos, Brazil.  
 Currently in my 3rd semester of Systems Analysis and Development at FATEC SJC,
-building real-world projects with my team at [DottecTeam](https://github.com/DottecTeam).
+building real-world projects with my academic team at [DottecTeam](https://github.com/DottecTeam).
 
 ---
 
