@@ -13,22 +13,6 @@ building real-world projects with my academic team at [DottecTeam](https://githu
 
 ---
 
-### Experience
-
-| Period | Role | Company |
-|---|---|---|
-| 2025 – present | Developer (academic team) | DottecTeam @ FATEC SJC |
-| Mar 2024 – Dec 2025 | IT Intern | Localiza Negócios Imobiliários |
-
----
-
-### Certifications
-
-IT Essentials — Cisco Networking Academy (2025)   
-Microsoft Full-Stack Developer - Coursera (2026)
-
----
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-B-Toledo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
