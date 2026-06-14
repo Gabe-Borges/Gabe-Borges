@@ -24,7 +24,7 @@ building real-world projects with my team at [DottecTeam](https://github.com/Dot
 
 ### Certifications
 
-IT Essentials — Cisco Networking Academy (2025)
+IT Essentials — Cisco Networking Academy (2025)   
 Microsoft Full-Stack Developer - Coursera (2026)
 
 ---
