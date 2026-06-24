@@ -6,13 +6,6 @@ building real-world projects with my academic team at [DottecTeam](https://githu
 
 ---
 
-**Stack:** Python · Java · TypeScript · JavaScript · MySQL · Flask · Git  
-**Tools:** Linux · Figma · VS Code  
-**Workflow:** Scrum · GitHub Flow  
-**Languages:** Portuguese (native) · English (advanced)
-
----
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-B-Toledo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
