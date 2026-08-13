@@ -1,16 +1,22 @@
 # Gabriel Borges de Toledo
 
 Software developer student based in São José dos Campos, Brazil.  
-Currently in my 3rd semester of Systems Analysis and Development at FATEC SJC,
+Currently in my 4th semester of Systems Analysis and Development at FATEC SJC,  
 building real-world projects with my academic team at [DottecTeam](https://github.com/DottecTeam).
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-B-Toledo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-B-Toledo&layout=compact&theme=default&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gabriel-B-Toledo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-B-Toledo&layout=compact&theme=github_dark&hide_border=true"
+  height="165"
+/>
 
 </div>
 
